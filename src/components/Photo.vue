@@ -9,6 +9,8 @@
 
 <script>
   /**
+   * Complicated in-browser photo capture. Doesn't work on mobile devices.
+   * 
    * docs:
    * https://whatwebcando.today/photos.html
    * https://developers.google.com/web/updates/2016/12/imagecapture
