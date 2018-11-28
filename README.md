@@ -1,26 +1,4 @@
 # in-class-11-28
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+This project contains demo code for geolocation and two 
+ways to do photos (webcam or using device).
